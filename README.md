@@ -10,7 +10,7 @@ If a policy-deamon is used, it is essential that this be working correctly, in o
 ### Prerequisites
 * If you are running Postfix as a mail-server
     and
-* If you are using a Greylister on a TCP port
+* If you are using a Greylister on a TCP port or Unix socket
 
 Then this plugin is for you
 
