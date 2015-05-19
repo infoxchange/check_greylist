@@ -33,7 +33,7 @@ t_timeout = 30.0
 t_warn = 5
 t_crit = 15
 verbose = 0
-version = '$Id:$'
+version = 'v1.0 $Id$'
 
 from_addr = 'nagios@nagios.greylist.check'
 to_addr   = 'nagios@nagios.greylist.check'
