@@ -1,7 +1,7 @@
 check_greylist.py
 =================
 
-This is a Nagios plugin, for checking the normal operation of a Postfix greylisting policy-deaemon.
+This is a Nagios plugin, for checking the normal operation of a Postfix greylisting policy-daemon.
 
 The Postfix mail server can use policy-deamons to accecpt, reject, or defer (greylist) e-mail.
 
