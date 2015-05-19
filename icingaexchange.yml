@@ -2,7 +2,7 @@ name: check_greylist
 description: "file:///README.md"
 url: "https://github.com/infoxchange/check_greylist"
 tags: Postfix
-vendor: Linux Unix
+vendor: Linux, Unix
 target: Mail
 type: Plugin
 license: gplv2
