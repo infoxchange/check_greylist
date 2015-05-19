@@ -15,5 +15,5 @@ releases:
         name: check_greylist.py
         url: "file:///check_greylist.py"
         description: "Nagios plugin for checking a Postfix greylisting policy-daemon"
-        checksum: 038106519bd297a5299bbd0b554f06bb
+        checksum: 07cd8eefa034648e69a3d1489406ec29
 
