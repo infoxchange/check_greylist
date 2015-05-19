@@ -17,12 +17,12 @@ Then this plugin is for you
 ### What it does
 
 This script connects to the policy daemon via TCP, provides some basic (fake) information, and reads the reply.
-For a greylister, only 2 responses are valid:
+For a greylister, only 2 responses are normally valid:
 
 * DUNNO
   * accept, subject to later rules
 * DEFER_IF_PERMIT
-  * greylist, but only if no other policy tells Postfix to REJECT the e-mai
+  * greylist, but only if no other policy tells Postfix to REJECT the e-mail
 
 Since the check runs periodically, with the same data, it very quickly passes the greylisting period.
 During greylisting, the check returns a warning status.
